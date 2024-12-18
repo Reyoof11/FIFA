@@ -1,0 +1,25 @@
+
+body {
+    
+    background: linear-gradient(to right, #15193c, #cecfd1);
+     color: #15193c; /* لون النصوص الكحلي */
+      background-color: #ffffff;
+}
+.card-body {
+    color: #15193c; /* لون النصوص داخل الكارد */
+}
+
+.navbar1 {
+    background-color: #FEFEFF;
+}
+.btn {
+    color: #ffffff; /* لون النص بالأبيض */
+    background-color: #15193c; /* اللون الكحلي */
+    border: 1px solid #15193c; /* لإضافة حد للزر بنفس اللون */
+}
+
+.btn:hover, .btn:focus, .btn:active {
+    color: #15193c; /* لون النص الكحلي عند الضغط */
+    background-color: #ffffff; /* الخلفية البيضاء عند الضغط */
+    border: 1px solid #15193c; /* لإضافة حد للزر بنفس اللون */
+}
